@@ -1,0 +1,5 @@
+{
+  "DbSetting": {
+    "ConnectionString": "Server=127.0.0.1;database=learnnew;uid=root;pwd=123456789"
+  }
+}

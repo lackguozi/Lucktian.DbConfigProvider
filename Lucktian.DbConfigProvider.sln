@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lucktian.DbConfigProvider", "Lucktian.DbConfigProvider\Lucktian.DbConfigProvider.csproj", "{C28CC196-7939-4CBE-B240-E4519D6181EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsoleDemo", "TestConsoleDemo\TestConsoleDemo.csproj", "{7E7814CB-C39E-44E1-9212-8D20E6E411EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C28CC196-7939-4CBE-B240-E4519D6181EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C28CC196-7939-4CBE-B240-E4519D6181EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C28CC196-7939-4CBE-B240-E4519D6181EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C28CC196-7939-4CBE-B240-E4519D6181EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E7814CB-C39E-44E1-9212-8D20E6E411EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E7814CB-C39E-44E1-9212-8D20E6E411EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E7814CB-C39E-44E1-9212-8D20E6E411EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E7814CB-C39E-44E1-9212-8D20E6E411EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {935817E6-38D3-433A-A7A0-4352588A9DE4}
+	EndGlobalSection
+EndGlobal
