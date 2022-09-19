@@ -24,3 +24,7 @@ Console.WriteLine(jwt.Audience);
 Console.WriteLine(string.Join(",", jwt.Ids));
 Console.WriteLine(config["Age"]);
 Console.WriteLine("Hello, End");
+
+
+
+Console.WriteLine(Environment.GetEnvironmentVariable("OneDrive"));
